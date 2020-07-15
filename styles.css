@@ -1,4 +1,5 @@
 body {
+    text-align: center;
   
 }
 
@@ -19,24 +20,30 @@ body {
 }
 
 .header-right {
-  width: 300px;
+  display: flex;
+  width: 250px;
 }
 
 .header-center {
+  display: flex;
+  padding-top: 10px;
+    
   
 }
 
 .header-left {
-  width: 300px;
+  display: flex;
+  width: 250px;
+  align-items: flex-start;
 }
 
 .header-left button {
-    height: 20px;
-    width: 20px;
-    padding: 3px;
-    margin-right: 15px;
-    background-color: #fff;
-    border-style: none;
+  height: 20px;
+  width: 20px;
+  padding: 3px;
+  margin-right: 30px;
+  background-color: #fff;
+  border-style: none;
 
 }
 .header-center img {
@@ -46,6 +53,7 @@ body {
 
 .header-right button {
   padding: 10px;
+  margin-right: 10px;
 }
 
 .button {
@@ -56,8 +64,9 @@ body {
 }
 
 main {
- margin-top: 50px;
+ margin-top: 100px;
 }
+
 
 .block-image {
     width: 400px;
