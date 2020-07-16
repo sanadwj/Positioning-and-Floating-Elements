@@ -127,3 +127,35 @@ main h1 {
 .editors-picks p {
   width: 150px;
 }
+
+.inflation-theory-details {
+  background-image: url(./graphics/inflation-945.png);
+  background-size: contain;
+  width: 1000px;
+  height: 610px;
+  display: grid;
+  grid-template: 1fr 1fr / 1fr 1fr 1fr 1fr;
+  
+}
+
+
+.inflation-theory {
+  display: inline-grid;
+  width: 1000px;
+  height: 760px;
+  grid-template: 1fr 8fr 1fr / 1fr;
+  text-align: start;
+  font-size: small;
+}
+
+.grid-item3 {
+display: block;
+margin: 150px 10px 0 10px;
+text-align: start;
+
+}
+
+.grid-item3 span {
+  font-weight: bold;
+  margin-right: 5px;
+}
