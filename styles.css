@@ -3,6 +3,11 @@ body {
     text-align: center;  
 }
 
+body a {
+  text-decoration: none;
+  color: black;
+}
+
 .header-container {
   display: flex;
   flex-direction: row;
@@ -15,7 +20,6 @@ body {
   align-items: center;
   z-index: 1;
   background-color: #fff;
-  /* padding: 5px ; */
  
 }
 
@@ -95,6 +99,12 @@ main h1 {
   font-size: 1.3em;
   line-height: 1.5em;
 }
+
+.content-section a {
+  text-decoration: underline;
+  color: #597a94;
+}
+
 
 .editors-picks-sidebar {
   float: right;
@@ -224,8 +234,61 @@ text-align: start;
   display: grid;
   grid-template-rows: repeat(10, 1fr);
   border-top: 1px black solid;
-  
-  
-
 }
 
+.horizontal-flex {
+  display: flex;
+  flex-direction: row;
+}
+
+.footer-top {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-rows {
+  text-align: start;
+  justify-content: space-between;
+  
+}
+
+.footer-rows a {
+  display: block;
+  
+}
+
+.footer {
+  display: inline-block;
+  width: 85%;
+  border-top: 4px #e3e3e3 double;
+  line-height: 1.8em;
+  font-size: .9em;
+  color: black;
+}
+
+.footer-bottom {
+  border-top: 1px #e3e3e3 solid;
+  justify-content: space-around;
+  font-size: .7em;
+  padding: 8px 0 12px 0;
+}
+
+.footer-subscribe {
+  border-left: 1px #e3e3e3 solid;
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+
+.footer-subscribe-icons div {
+  align-items: center;
+}
+
+.footer-subscribe-icons h3 {
+  margin-left: 10px;
+}
+
+.footer-subscribe-icons {
+  border-bottom: 1px #e3e3e3 solid;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
