@@ -292,3 +292,8 @@ text-align: start;
   margin-bottom: 10px;
   padding-bottom: 10px;
 }
+
+.footer-subscribe-icons img {
+  height: 15px;
+  width: 15px;
+}
