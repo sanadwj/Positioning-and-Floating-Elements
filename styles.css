@@ -97,4 +97,33 @@ main h1 {
 
 .editors-picks-sidebar {
   float: right;
+  margin-right: 50px;
+  margin-top: -200px;
+}
+
+.editors-picks-title {
+  text-align: start;
+  border-bottom: 1px #e3e3e3 solid;
+}
+
+.editors-picks {
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: space-between;
+  justify-content: flex-start;
+  width: 250px;
+  text-align:start ;
+  
+  
+} 
+
+.editors-picks img {
+  height: 75px;
+  width: 75px;
+  margin-right: 10px;
+}
+
+.editors-picks p {
+  width: 150px;
 }
