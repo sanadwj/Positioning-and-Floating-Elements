@@ -1,8 +1,6 @@
 body {
-    text-align: center;
-    width: 100;
-    
-  
+    font-family: nyt-cheltenham,georgia,'times new roman',times,serif;
+    text-align: center;  
 }
 
 .header-container {
@@ -85,4 +83,18 @@ main h1 {
 .block-image img {
   width: 900px;
   height: 500px;
+}
+
+.content-section {
+  max-width: 600px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: start;
+  font-size: 1.3em;
+  line-height: 1.5em;
+}
+
+.editors-picks-sidebar {
+  float: right;
 }
