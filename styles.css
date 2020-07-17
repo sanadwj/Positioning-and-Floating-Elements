@@ -211,6 +211,15 @@ main h1 {
   color: black;
 }
 
+.content-section button {
+  height: 20px;
+  width: 100px;
+  padding: 3px;
+  margin-right: 30px;
+  background-color: #fff;
+  border-style: none;
+}
+
 .more-articles {
   display: inline-grid;
   grid-template-columns: 2.5fr 1fr;
