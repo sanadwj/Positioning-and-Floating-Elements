@@ -15,7 +15,7 @@ body a {
   top: 0;
   height: 45px;
   width: 100vw;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #e3e3e3;
   justify-content: space-between;
   align-items: center;
   z-index: 1;
@@ -82,7 +82,6 @@ main figure {
   margin-inline-start: 0;
   margin-inline-end: 0;
   font-size: 14px;
-  
 }
 
 .video figcaption {
@@ -237,15 +236,15 @@ main figure {
   margin-right: auto;
   margin-left: auto;
   text-align: start;
-  font-size: .8em;
+  font-size: 0.8em;
   line-height: 1.2em;
 }
 
-.article-footer a{
+.article-footer a {
   text-decoration: underline;
 }
 
-.article-footer p{
+.article-footer p {
   margin: 5px 0 5px 0;
 }
 
@@ -394,27 +393,37 @@ main figure {
 }
 
 .sticky-bottom-bar {
-  float: right;
-
+  display: flex;
+  flex-direction: row;
   border-top: 1px black solid;
   height: 50px;
   width: 100%;
+  justify-content: center;
   align-items: center;
   position: fixed;
   top: 100vh;
   margin-top: -50px;
   background-color: #fff;
-  text-align: center;
 }
 
 .expand-bar {
   display: flex;
   flex-direction: row;
-  margin-left: 50px;
   align-items: center;
+  margin-right: 80px;
 }
 
 .expand-bar img {
   width: 30px;
   height: 30px;
+  margin: 0 20px 0 20px;
+}
+.sticky-bottom-bar h4 {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.sticky-bottom-bar p {
+  width: 100%;
+  margin-left: 200px;
 }
