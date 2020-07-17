@@ -4,7 +4,7 @@
 
 > In this project, we create a clone of The New York Times Website.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./graphics/nyt-screenshot.png)
 
 Additional description about the project and its features.
 
