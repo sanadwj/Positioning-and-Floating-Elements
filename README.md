@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# The New York Times Clone
 
-> One paragraph statement about the project.
+> In this project, we create a clone of The New York Times Website.
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,46 +10,46 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML & CSS3,
+- FlexBox, CSS-Grid, Float
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://raw.githack.com/sanadwj/Positioning-and-Floating-Elements/feature-branch/index.html)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Code Editor
+- Web Browser
+
 ### Setup
+
+`$git clone https://github.com/sanadwj/Positioning-and-Floating-Elements.git`
 
 ### Install
 
+- Run a local server
+
 ### Usage
 
-### Run tests
-
-### Deployment
-
+- Personal Project - The New York Times Clone
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Paul Balitema Kabali**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@pbkabali](https://github.com/pbkabali)
+- Twitter: [@pbkabali](https://twitter.com/pbkabali)
+- Linkedin: [engineerbpk](https://linkedin.com/engineerbpk)
 
-👤 **Author2**
+👤 ****
 
 - Github: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
@@ -59,7 +59,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/sanadwj/Positioning-and-Floating-Elements/issues/).
 
 ## Show your support
 
@@ -67,9 +67,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse Team 140 (The Cupids)
+
 
 ## 📝 License
 
