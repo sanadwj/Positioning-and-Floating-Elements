@@ -379,14 +379,6 @@ main figure {
   margin-bottom: 10px;
 }
 
-.footer-subscribe-icons div {
-  align-items: center;
-}
-
-.footer-subscribe-icons h3 {
-  margin-left: 10px;
-}
-
 .footer-subscribe-icons {
   border-bottom: 1px #e3e3e3 solid;
   margin-bottom: 10px;
@@ -396,6 +388,18 @@ main figure {
 .footer-subscribe-icons img {
   height: 15px;
   width: 15px;
+}
+
+.subscribe-icons {
+  line-height: .3em;
+}
+
+.footer-subscribe-icons div {
+  align-items: center;
+}
+
+.footer-subscribe-icons h3 {
+  margin-left: 10px;
 }
 
 .sticky-bottom-bar {
