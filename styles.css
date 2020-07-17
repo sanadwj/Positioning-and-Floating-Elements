@@ -85,6 +85,24 @@ main h1 {
   height: 500px;
 }
 
+.article-info {
+  justify-content: space-between;
+  font-size: 14px;
+}
+
+.article-info p {
+  font-size: 13px;
+}
+
+.social-icons {
+  margin-top: 60px;
+}
+.social-icons img {
+  width: 25px;
+  height: 25px;
+  padding: 5px;
+}
+
 .content-section {
   max-width: 600px;
   display: block;
