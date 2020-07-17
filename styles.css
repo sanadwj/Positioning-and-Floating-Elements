@@ -74,6 +74,26 @@ main h1 {
   justify-content: center;
 }
 
+main figure {
+  display: inline-block;
+  text-align: start;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  font-size: 14px;
+  
+}
+
+.video figcaption {
+  width: 510px;
+  margin: 5px 0 15px 0;
+}
+
+.video span {
+  color: gray;
+}
+
 .block-image {
   display: inline-block;
   text-align: start;
