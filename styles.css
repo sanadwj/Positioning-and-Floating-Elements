@@ -46,6 +46,7 @@ body a {
   background-color: #fff;
   border-style: none;
 }
+
 .header-center img {
   height: 30px;
   width: 200px;
@@ -56,11 +57,16 @@ body a {
   margin-right: 10px;
 }
 
-.button {
+.buttons {
   background-color: #597a94;
   color: #fff;
   border-radius: 3px;
   border-style: none;
+}
+
+button :hover {
+  cursor: pointer;
+  background-color: rgb(245, 245, 245);
 }
 
 main {
