@@ -113,6 +113,35 @@ main h1 {
   line-height: 1.5em;
 }
 
+.unlock-more {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.2em;
+  font-size: .9em;
+  align-items: center;
+  justify-content: space-between;
+  height: 75px;
+}
+
+.unlock-more a {
+  color: #597a94;
+  font-weight: bold;
+}
+
+.unlock-more h4 {
+  margin: 0;
+}
+
+.unlock-more-top {  
+  border-top:1px #b8b9b9 solid;
+  width: 80px;
+}
+
+.unlock-more-bottom {
+  border-bottom:1px #b8b9b9 solid;
+  width: 80px;
+}
+
 .content-section a {
   text-decoration: underline;
   color: #597a94;
