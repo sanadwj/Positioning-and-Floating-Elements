@@ -211,13 +211,36 @@ main h1 {
   color: black;
 }
 
-.content-section button {
-  height: 20px;
-  width: 100px;
-  padding: 3px;
-  margin-right: 30px;
-  background-color: #fff;
-  border-style: none;
+.article-footer {
+  max-width: 600px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: start;
+  font-size: .8em;
+  line-height: 1.2em;
+}
+
+.article-footer a{
+  text-decoration: underline;
+}
+
+.article-footer p{
+  margin: 5px 0 5px 0;
+}
+
+.article-footer-button {
+  justify-content: space-between;
+  max-width: 600px;
+  margin: 30px 0 60px 0;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.article-footer-button button {
+  width: 320px;
+  padding: 10px;
 }
 
 .more-articles {
