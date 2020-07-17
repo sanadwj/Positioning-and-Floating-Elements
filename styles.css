@@ -8,6 +8,15 @@ body a {
   color: black;
 }
 
+h1 {
+  display: block;
+  margin: 0 auto 25px auto;
+  font-weight: bold;
+  text-align: start;
+  font-style: italic;
+  width: 500px;
+}
+
 .header-container {
   display: flex;
   flex-direction: row;
@@ -117,6 +126,9 @@ main figure {
 
 .article-info p {
   font-size: 13px;
+}
+.author {
+  color: black;
 }
 
 .social-icons {
@@ -391,7 +403,7 @@ main figure {
 }
 
 .subscribe-icons {
-  line-height: .3em;
+  line-height: 0.3em;
 }
 
 .footer-subscribe-icons div {
