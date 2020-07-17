@@ -17,9 +17,7 @@ Additional description about the project and its features.
 
 [Live Demo Link](https://raw.githack.com/sanadwj/Positioning-and-Floating-Elements/feature-branch/index.html)
 
-
 ## Getting Started
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -40,20 +38,19 @@ To get a local copy up and running follow these simple example steps.
 
 - Personal Project - The New York Times Clone
 
-
 ## Authors
 
 👤 **Paul Balitema Kabali**
 
 - Github: [@pbkabali](https://github.com/pbkabali)
 - Twitter: [@pbkabali](https://twitter.com/pbkabali)
-- Linkedin: [engineerbpk](https://linkedin.com/engineerbpk)
+- Linkedin: [engineerbpk](https://linkedin.com/in/engineerbpk)
 
-👤 ****
+👤 **Sanad Walid Abujbara**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@sanadwj](https://github.com/githubhandle)
+- Twitter: [@sandooog](https://twitter.com/sandooog)
+- Linkedin: [sanad-abujbara](https://linkedin.com/in/sanad-abujbara)
 
 ## 🤝 Contributing
 
@@ -68,7 +65,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse Team 140 (The Cupids)
-
+- Microverse Team 139 (The Thanatos)
 
 ## 📝 License
 
