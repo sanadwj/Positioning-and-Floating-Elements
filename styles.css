@@ -117,7 +117,7 @@ main h1 {
   display: flex;
   flex-direction: column;
   line-height: 1.2em;
-  font-size: .9em;
+  font-size: 0.9em;
   align-items: center;
   justify-content: space-between;
   height: 75px;
@@ -132,13 +132,13 @@ main h1 {
   margin: 0;
 }
 
-.unlock-more-top {  
-  border-top:1px #b8b9b9 solid;
+.unlock-more-top {
+  border-top: 1px #b8b9b9 solid;
   width: 80px;
 }
 
 .unlock-more-bottom {
-  border-bottom:1px #b8b9b9 solid;
+  border-bottom: 1px #b8b9b9 solid;
   width: 80px;
 }
 
@@ -315,6 +315,7 @@ main h1 {
   line-height: 1.8em;
   font-size: 0.9em;
   color: black;
+  margin-bottom: 50px;
 }
 
 .footer-bottom {
@@ -347,4 +348,30 @@ main h1 {
 .footer-subscribe-icons img {
   height: 15px;
   width: 15px;
+}
+
+.sticky-bottom-bar {
+  float: right;
+
+  border-top: 1px black solid;
+  height: 50px;
+  width: 100%;
+  align-items: center;
+  position: fixed;
+  top: 100vh;
+  margin-top: -50px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.expand-bar {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+  align-items: center;
+}
+
+.expand-bar img {
+  width: 30px;
+  height: 30px;
 }
