@@ -97,10 +97,11 @@ main figure {
   margin-inline-start: 0;
   margin-inline-end: 0;
   font-size: 14px;
+  width: 57em;
 }
 
-.video figcaption {
-  width: 510px;
+.video figure {
+  text-align: center;
   margin: 5px 0 15px 0;
 }
 
@@ -110,12 +111,12 @@ main figure {
 
 .block-image {
   display: inline-block;
-  text-align: start;
-  width: 900px;
+  text-align: center;
+  width: 57em;
 }
 
 .block-image img {
-  width: 900px;
+  width: 57em;
   height: 500px;
 }
 
@@ -297,9 +298,10 @@ main figure {
   margin-block-end: 0;
   margin-inline-start: 0;
   margin-inline-end: 0;
-  padding: .6em;
+  padding: 0.6em;
   font-size: 12px;
   color: gray;
+  width: 18em;
 }
 
 .more-articles h3 {
@@ -343,7 +345,7 @@ main figure {
   display: grid;
   grid-template-rows: repeat(10, 1fr);
   border-top: 1px black solid;
-  height: 800px;
+  height: 40em;
 }
 
 .most-popular div {
