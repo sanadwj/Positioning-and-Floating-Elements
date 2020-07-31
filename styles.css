@@ -33,7 +33,8 @@ h1 {
 
 .header-right {
   display: flex;
-  width: 250px;
+  width: 175px;
+  
 }
 
 .header-center {
@@ -62,8 +63,8 @@ h1 {
 }
 
 .header-right button {
-  padding: 10px;
-  margin-right: 10px;
+  padding: 0.5rem;
+  margin-right: 0.5rem;
 }
 
 .buttons {
@@ -71,6 +72,11 @@ h1 {
   color: #fff;
   border-radius: 3px;
   border-style: none;
+  
+}
+
+.buttons h3 {
+  font-size: 0.5rem;
 }
 
 button :hover {
