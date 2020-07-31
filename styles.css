@@ -34,7 +34,6 @@ h1 {
 .header-right {
   display: flex;
   width: 175px;
-  
 }
 
 .header-center {
@@ -71,8 +70,7 @@ h1 {
   background-color: #597a94;
   color: #fff;
   border-radius: 3px;
-  border-style: none;
-  
+  border-style: none; 
 }
 
 .buttons h3 {
